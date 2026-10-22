@@ -1,0 +1,5 @@
+traffic_source,views,carts,purchases,traffic_share,purchase_share,cart_conversion_rate,purchase_conversion_rate,cart_to_purchase_rate
+organic,1757,578,300,40.9,42.3,32.9,17.1,51.9
+paid_ads,824,306,173,19.2,24.4,37.1,21.0,56.5
+email,449,283,152,10.5,21.4,63.0,33.9,53.7
+social,1261,171,84,29.4,11.8,13.6,6.7,49.1

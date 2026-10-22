@@ -1,0 +1,12 @@
+metric,value
+converted_users,709
+avg_view_to_cart_minutes,11.21
+avg_cart_to_purchase_minutes,13.35
+avg_total_journey_minutes,24.56
+total_visitors,4291
+total_buyers,709
+total_orders,709
+total_revenue,76191.82
+avg_order_value,107.46
+revenue_per_buyer,107.46
+revenue_per_visitor,17.76
