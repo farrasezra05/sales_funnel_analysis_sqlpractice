@@ -1,4 +1,3 @@
-[README (3).md](https://github.com/user-attachments/files/33848649/README.3.md)
 # Sales Funnel Analysis in SQL (BigQuery)
 
 Where do e-commerce shoppers drop off, which channels bring buyers (not just visitors), and how much is each improvement worth?
