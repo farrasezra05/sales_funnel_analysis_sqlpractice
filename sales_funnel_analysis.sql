@@ -3,6 +3,10 @@
 -- Dataset : sql_practice.user_events (practice e-commerce event data)
 -- Window  : 30 days ending 2026-02-03 (latest event_date in the table)
 -- Author  : Ezra (github.com/farrasezra05)
+-- Credit  : Dataset and project idea from Lore So What's YouTube tutorial
+--           "Watch me Do a Data Analyst Project in minutes with SQL"
+--           https://www.youtube.com/watch?v=U-JlXWDqvco
+--           Extended with channel shares, revenue what-ifs and recommendations.
 -- =====================================================================
 
 -- Analysis window. Change end_date to re-run on a different period.
